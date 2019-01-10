@@ -2,6 +2,10 @@
 This is a traffic surveillance project for digital surveillance system course in NTUST, Taiwan. We use Google Colaboration to run this project, so the first thing you need is to setup your Google Colaboration and Google Drive Account.
 
 # 2. Setting up your Google Drive Account
+If this is your first time using Google Colab, I strongly advised you to read this excellent article below by Fuat in Medium.
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+That article will give you a nice basic to get used with Google Colab.
+
 ## 2.1. First make sure to download the needed data
 The sources of this project are from https://github.com/matterport/Mask_RCNN and https://www.dlology.com/blog/how-to-run-object-detection-and-segmentation-on-video-fast-for-free/ with a little modification.
  
