@@ -8,4 +8,6 @@ The sources of this project are from https://github.com/matterport/Mask_RCNN and
  The test data are from NTUST Artificial Vision Lab.
 
 ## 2.2. Setup your Google Drive and Project Folder
-This is important, if you want your program to run smoothly you have to make sure your Google Drive directory is like this
+First, download the .rar file which contain all the necessary data and weight for the Mask RCNN from https://drive.google.com/open?id=1Ie7pkzccEe0cSL4Oj42Thy8VTfTNlr-0 This file is a bit large because it contains ~1000 image used for constructing videos and testing the Mask RCNN.
+
+After downloading the file, extract it and place it in your Google Drive, inside folder named Colab Notebooks. The Colab Notebooks folder are usually created by default when you signed up for Google Colab and set up your drive account for the first time.
