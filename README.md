@@ -9,12 +9,3 @@ The sources of this project are from https://github.com/matterport/Mask_RCNN and
 
 ## 2.2. Setup your Google Drive and Project Folder
 This is important, if you want your program to run smoothly you have to make sure your Google Drive directory is like this
-
-Colab Notebooks/
-    |Mask-RCNN DSS.ipynb
-    |Mask_RCNN/
-        |.git/
-        |__pycache___/
-        |datasets/
-        |images/
-        |videos/
